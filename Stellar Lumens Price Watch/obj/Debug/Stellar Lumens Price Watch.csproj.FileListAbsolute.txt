@@ -1,0 +1,12 @@
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\bin\Debug\Stellar Lumens Price Watch.exe.config
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\bin\Debug\Stellar Lumens Price Watch.exe
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\bin\Debug\Stellar Lumens Price Watch.pdb
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\obj\Debug\Stellar Lumens Price Watch.csprojResolveAssemblyReference.cache
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\obj\Debug\Stellar_Lumens_Price_Watch.Properties.Resources.resources
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\obj\Debug\Stellar_Lumens_Price_Watch.StellarPriceWatch.resources
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\obj\Debug\Stellar Lumens Price Watch.csproj.GenerateResource.Cache
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\obj\Debug\Stellar Lumens Price Watch.csproj.CoreCompileInputs.cache
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\obj\Debug\Stellar Lumens Price Watch.exe
+C:\Users\wccopeland\source\repos\Stellar Lumens Price Watch\Stellar Lumens Price Watch\obj\Debug\Stellar Lumens Price Watch.pdb
